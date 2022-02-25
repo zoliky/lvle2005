@@ -1,0 +1,7 @@
+#+TITLE: OpenBSD and Security Techniques
+#+AUTHOR: Zoltán Király
+#+EMAIL: zoliky@gmail.com
+#+DATE: <2022-02-26 Sat>
+
+[[./01.jpg]]
+[[./02.jpg]]
